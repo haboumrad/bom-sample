@@ -1,7 +1,4 @@
 systems:
   - name: sample-sys-1
-    version: 0.0.2
-    url: https://github.com/haboumrad/sample-sys-1.git
-  - name: sample-sys-2
     version: 0.0.3
-    url: https://github.com/haboumrad/sample-sys-2.git
+    url: https://github.com/haboumrad/sample-sys-1.git
