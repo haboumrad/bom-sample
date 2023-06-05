@@ -2,3 +2,6 @@ systems:
   - name: sample-sys-1
     version: 0.0.4
     url: haboumrad/sample-sys-1
+  - name: sample-sys-2
+    version: v0.0.1
+    url: haboumrad/sample-sys-2
